@@ -1,16 +1,10 @@
 export default {
     palette: {
-        // primary: {
-        //     main: '',
-        //     dark: '',
-        //     light: '',
-        // },
-        secondary: {
-            main: '#FF6500',
-            dark: 'rgb(66, 70, 77)',
-            light: '#B7BABF',
-            lighter: '#EFECEC',
-          },
+        primary: {
+            main: '#1AEBB6',
+            dark: '#1BB283',
+            light: '#E9E9E9',
+        },
     },
     breakpoints: {
         values: {

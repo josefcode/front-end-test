@@ -1,12 +1,11 @@
-
+import { BrowserRouter } from 'react-router-dom'
+import { Router } from './Routes'
 
 function App() {
-
-
   return (
-    <>
-    <h2>hello</h2>
-    </>
+    <BrowserRouter>
+      <Router />
+    </BrowserRouter>
   )
 }
 
