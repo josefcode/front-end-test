@@ -1,4 +1,18 @@
-# React + TypeScript + Vite
+
+# Clean car project
+
+Code dependency technologies:
+- Vite
+- React.js
+- TypeScript
+- Material UI
+- React Router DOM
+
+After cloning the project, run:
+```
+npm install
+npm run dev
+```
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
